@@ -6,5 +6,3 @@
 
 ![Milena Baruc GitHub stats](https://github-readme-stats.vercel.app/api?username=MilenaBaruc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaBaruc&hide_progress=true)
-
-![snake gif](https://github.com/MilenaBaruc/MilenaBaruc/blob/output/github-contribution-grid-snake.svg)
